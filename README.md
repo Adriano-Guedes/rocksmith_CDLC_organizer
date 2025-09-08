@@ -1,8 +1,12 @@
 📌 Versão em Português
+
 O script funciona da seguinte forma:
 
+
 Criação das pastas → Ele cria uma pasta para cada artista definido na configuração do script.
+
 Varredura de arquivos → O script percorre todas as pastas e subpastas, verificando se o nome de cada arquivo contém alguma correspondência com os nomes dos artistas definidos anteriormente.
+
 Movimentação de arquivos →
 Se houver correspondência, o arquivo é movido para a pasta do respectivo artista.
 Se nenhum artista compatível for encontrado, o arquivo será movido para uma pasta especial destinada às CDLCs sem artista definido.
