@@ -13,6 +13,7 @@ Após definir essas configurações, basta executar o script no terminal e aguar
 
 
 
+
 📌 English Version
 
 The script works as follows:
